@@ -2,20 +2,6 @@
 
 This project comprises of 12 Exercise which starts from understanding the basics of Python to creating a Project in the last exercise. With this Project as a base, complex programs can be created without the need of revisiting the script structures or its anatomy. 
 
-## Table of Contents
-
-- Python Exercises
-  - [Table of Contents]
-  - [Description]
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Configuration](#configuration)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
-
-
 ## Exercises
 
 - Excercise 1
@@ -37,18 +23,24 @@ Python also uses Object Oriented concepts and its practice will be covered in th
 - Excercise 9
 There are some inbuilt tools available to examine and test the code and such tools will be discussed here.
 - Excercise 10
+Majority of the programs require date and time. Basics of using the DateTime library and its formatting is covered here.
+- Excercise 11
+Excercises of Network utilities like FTP, UDP, TCP, etc. will be covered in this section
+- Excercise 12
+Lastly, a project will be created including learnings from multiple excercises above.
 
-## Features
+## Prerequisites
 
-List the key features of your project.
-
-- Feature 1
-- Feature 2
-- ...
+Python 3.12.0 should be installed.
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies that need to be installed.
+The most commonly used IDE for Python is PyCharm and Visual Studio code. This project has been created in Visual Studio Code; however, it will work on either of the IDE. On Visual Studio, an additional step of installing the Python extension is required. To install, click on Extensions, search for Python and install it.
 
-```bash
-pip install -r requirements.txt
+## Author
+    Name: Shahanawaz Shaikh
+    ID: L00179051
+    Contact: l00179051@atu.ie
+
+## License
+    This project is not licensed and is open source.
