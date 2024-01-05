@@ -1,20 +1,16 @@
 '''
-Python script for: Loops and Statements
+Python script for: If Elif and Else.py
 Date: 02DEC2023
 By: Shahanawaz Shaikh
 '''
 
-# If, Elif and Else
-a = False
-b = True
-c = True
+# Age Input and check if minor, adult or senior citizen
+age = int(input("Enter your age: "))
 
-if a:
-    print("a was true")
-elif b:
-    print("b was true")
-elif c:
-    print("c was true")
+if age < 18:
+    print("You are minor.")
+elif 18 <= age < 65:
+    print("You are an adult.")
 else:
-    print("None of our boolean variables were true")
+    print("You are senior citizen.")
 
