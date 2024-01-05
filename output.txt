@@ -1,2 +1,0 @@
-This is a sample text from Excercise 7 - Basic File Handling.
-Writing to a file in Python is easy!
